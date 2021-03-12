@@ -15,7 +15,7 @@ namespace SmartSchool.WebAPI.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Professores: Gabriel, Laura, Vera, Lucas");
+            return Ok("Professores: Adriana, Thais, Kelly, Dudi");
         }
     }
 }
